@@ -18,7 +18,6 @@ const App = () => {
   ];
 
   const onGridReady = params => {
-    console.log('onGridReady')
     setGridLoaded(true)
   }
 
