@@ -1,0 +1,26 @@
+{
+  "name": "ag-grid-snapshot-demo",
+  "version": "1.0.0",
+  "description": "This sandbox has been generated!",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@testing-library/dom": "^7.31.0",
+    "@testing-library/jest-dom": "^4.1.0",
+    "@testing-library/react": "^11.2.6",
+    "ag-grid-community": "25.1.0",
+    "ag-grid-react": "25.1.0",
+    "prettier": "^2.3.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
